@@ -1,0 +1,38 @@
+{
+  "manifest_version": "1.0",
+  "org": "prettier",
+  "repo": "html-tags",
+  "versions": [
+    {
+      "commit": "0828a65d8186a3f3063be53d1f45d9104e4a3e42",
+      "parsed_at": "2026-11-10T07:04:35.591699+00:00",
+      "filetree": "filetree/0828a65d8186a3f3063be53d1f45d9104e4a3e42.nq.gz",
+      "blobs": [
+        "blob/b96d37b88006767e63168b431c614e7976363656.nq.gz",
+        "blob/d760976b32956c8c27f1caba996e2891c888f9c7.nq.gz",
+        "blob/676f11b2c1a683d3175cf0455ee1bc8ff52da375.nq.gz",
+        "blob/5e4ab772476c839b13a888ed881a9c6a79f8baa1.nq.gz",
+        "blob/029a41251da4ecacdb858cf4feb0211cc950d452.nq.gz",
+        "blob/882fcd7fdbd7abb7b83825b20fb5414acdf1ae7b.nq.gz",
+        "blob/947326fde2b0fd465129479e5fb651c3250f3886.nq.gz",
+        "blob/63869a53518ede4f0e3000d887e92d23eac5b278.nq.gz",
+        "blob/03ddc801a657f1e6b389b92b5a866df68f70bcfa.nq.gz",
+        "blob/fff7c5ffd010d8d1f4e3decfd4783cca6aa61ade.nq.gz",
+        "blob/384848fcfc4c0fc3833243ee2751b6802733e14a.nq.gz",
+        "blob/6313b56c57848efce05faa7aa7e901ccfc2886ea.nq.gz",
+        "blob/872d2d1c1e83fabea9aa5f503b48aaa2642df677.nq.gz",
+        "blob/78a8f3b23653ea9d40390423ebcf84fcd7352244.nq.gz",
+        "blob/8579f758332f252c9c3613d065c4ad4b1cb9ef14.nq.gz",
+        "blob/502fce0c050a6c965118bd5f80888c2c09e56f79.nq.gz",
+        "blob/d16658fd3101ad1239993ca084913505517db591.nq.gz",
+        "blob/5aff0365ddcafd2bf9dc21ad4e71233468d0a016.nq.gz",
+        "blob/bfb215112f39587d5f8cd09b63f6852ef4b5f53a.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
